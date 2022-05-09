@@ -24,10 +24,12 @@ const rulesURL = 'https://api.twitter.com/2/tweets/search/stream/rules'
 const streamURL = 'https://api.twitter.com/2/tweets/search/stream?tweet.fields=public_metrics,created_at&expansions=author_id&user.fields=profile_image_url'
 // const imageURL = 'https://api.twitter.com/1.1/users/show.json?'
 
-
-// Example of Rules that can be used
 const rules = [{value: "\"Blue Jays\" from:JeffPassan"}, {value: "\"Blue Jays\" from:Sportsnet"}, 
               {value: "\"Blue Jays\" is:verified"}, {value: "\"BlueJays\" is:verified"}, 
+              {value: "\"Yankees\" is:verified"},
+              {value: "\"nba\" is:verified"},
+              {value: "\"mlb\" is:verified"},
+              {value: "\"mvp\" is:verified"},
               {value: "\"baseball\" is:verified"}, {value: "\"Dodgers\" is:verified"},]
 // {value: "\"baseball\" -is:retweet"},
 
