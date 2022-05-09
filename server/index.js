@@ -28,7 +28,6 @@ const streamURL = 'https://api.twitter.com/2/tweets/search/stream?tweet.fields=p
 // Example of Rules that can be used
 const rules = [{value: "\"Blue Jays\" from:JeffPassan"}, {value: "\"Blue Jays\" from:Sportsnet"}, 
               {value: "\"Blue Jays\" is:verified"}, {value: "\"BlueJays\" is:verified"}, 
-              {value: "    "}, // insert Twitter Developer Account Username
               {value: "\"baseball\" is:verified"}, {value: "\"Dodgers\" is:verified"},]
 // {value: "\"baseball\" -is:retweet"},
 
