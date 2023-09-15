@@ -1,8 +1,11 @@
 # Stream_Personalized_Tweets
-Stream Personalized tweets based on topics, hastags, people, teams etc..
+Fullstack Project that streams personalized tweets based on topics, hastags, people, teams etc..
+
+![image](https://github.com/A29-S/Stream_Personalized_Tweets/assets/58533990/c2c43411-f1d5-4dee-9b23-4b91b5f0415b)
 
 
-To Run:
-1. Clone repository
-2. npm -install
-3. npm start
+## Backend
+Node Js
+
+## Frontend
+React, JavaScript, Bootstrap
