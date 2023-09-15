@@ -8,4 +8,4 @@ Fullstack Project that streams personalized tweets based on topics, hastags, peo
 Node Js
 
 ## Frontend
-React, JavaScript, Bootstrap
+JavaScript, Bootstrap
